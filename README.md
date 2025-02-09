@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Revathy - CUSAT
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
